@@ -1,12 +1,12 @@
 @echo off
 color 0b
-title  é«˜é€šå·¥å…· 
+title  ¸ßÍ¨¹¤¾ß 
 mode con cols=80 lines=40
 :RETRY
 :setup
 cls
 lsusb
-set /p port=è¾“å…¥9008ç«¯å£å·[1~3000,x:Exit]:
+set /p port=ÊäÈë9008¶Ë¿ÚºÅ[1~3000,x:Exit]:
 if "%port%" == "x" goto EXIT
 for /L %%a in (1,1,3000) do (
            IF "%port%" == "%%a" (
