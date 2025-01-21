@@ -4,8 +4,14 @@ tools is exist in all emergency_download file for run and repair
 just connect your device in EDL mode and use tool 🙂
 
 list of device :
-* Samsung Galaxy A52 5G SM-A526U U10 
-* Samsung Galaxy A71 SM-A716U Ug 
+* Samsung Galaxy A02s SM-A025F U2(firehose only)
+* Samsung Galaxy A05s SM_A057F U2(firehose only)
+* Samsung Galaxy A11 SM-A115F U2(firehose only)
+* Samsung Galaxy A015 SM-A015F U2(firehose only)
+* Samsung Galaxy A52 5G SM-A526U U10
+* Samsung Galaxy A52s 5G SM-A528B U5(firehose only and link download all luns)
+* Samsung Galaxy A52s 5G SM-A528B U9(firehose only and link download all luns)
+* Samsung Galaxy A71 SM-A716U U9 
 * Samsung Galaxy Note 10 PLUS SM-N975U U7 
 * Samsung Galaxy Note 10 SM-N970U U7 
 * Samsung Galaxy Note20 5G SM-N981U U2 
@@ -48,13 +54,16 @@ list of device :
 * Samsung Galaxy S23 PLUS SM-S916B U3 
 * Samsung Galaxy S23 PLUS SM-S916U U2 
 * Samsung Galaxy S23 Ultra 5G SM-59188 U3 
-* Samsung Galaxy S23 Ultra SM-5918U U2 
+* Samsung Galaxy S23 Ultra SM-5918U U2
+* Samsung Galaxy Tab A7 SM-T500 U2(firehose only)
 * Samsung Galaxy Z Flip 4 SM-F721U_U3 
 * Samsung Galaxy Z Flip3 5G SM-F711U US 
 * Samsung Galaxy Z Fold2 5G SM-F916U UZ 
-* Samsung Galaxy Z Fold3 5G SM-F9268 U4 
-* Samsung Galaxy Z Fold3 5G SM-F9268 U5 
-* Samsung Galaxy Z Fold4 5G SM-F9368 U4 
+* Samsung Galaxy Z Fold3 5G SM-F926B U4 
+* Samsung Galaxy Z Fold3 5G SM-F926B U5
+* Samsung Galaxy Z Fold3 5G SM-F926B U7
+* Samsung Galaxy Z Fold4 5G SM-F9368 U4
+* Samsung Galaxy Z Fold4 5G SM-F936B U8
 * Samsung Galaxy Z Fold4 5G SM-F936U U3
 
 Follow us in telegram : https://t.me/Alephgsm
